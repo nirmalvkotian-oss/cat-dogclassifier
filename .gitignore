@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+model/*.h5
+PetImages/
+build/
+dist/
